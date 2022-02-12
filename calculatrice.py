@@ -13,4 +13,5 @@ def div(x,y):
 
 #fonction qui retourne la racine carée d'un nombre
 def root(x):
-    return math.sqrt(x)
+    res math.sqrt(x)
+    print("root(",x,") = ", res)
