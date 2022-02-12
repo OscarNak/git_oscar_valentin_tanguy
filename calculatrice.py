@@ -2,5 +2,6 @@
 def add(x,y):
     return x+y
 
+#Fonction qui effectue la division de 2 nombres
 def div(x,y):
-    reurtn x/y
+    return x/y
