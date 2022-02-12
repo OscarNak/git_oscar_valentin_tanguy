@@ -11,6 +11,6 @@ def div(x,y):
     result = x/y
     print("Le resultat est : ", result)
 
-
+#fonction qui retourne la racine carée d'un nombre
 def root(x):
     return math.sqrt(x)
