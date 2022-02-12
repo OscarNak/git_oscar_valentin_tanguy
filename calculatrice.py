@@ -10,3 +10,7 @@ def add(x,y):
 def div(x,y):
     result = x/y
     print("Le resultat est : ", result)
+
+
+def root(x):
+    return math.sqrt(x)
