@@ -4,4 +4,5 @@ def add(x,y):
 
 #Fonction qui effectue la division de 2 nombres
 def div(x,y):
-    return x/y
+    result = x/y
+    print("Le resultat est : ", result)
